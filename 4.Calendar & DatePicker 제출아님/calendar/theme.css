@@ -1,0 +1,11 @@
+.green {
+  border: solid 1px #44c379;
+  border-radius: 50%;
+}
+.sunday {
+  color: red;
+}
+
+/* .date:nth-child(7n + 1) {
+  color: red;
+} */

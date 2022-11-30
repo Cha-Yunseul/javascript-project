@@ -1,0 +1,8 @@
+.green {
+  border: solid 1px #44c379;
+  border-radius: 50%;
+}
+
+.date:nth-child(7n + 1) {
+  color: red;
+}
